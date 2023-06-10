@@ -31,12 +31,12 @@
 
                                 </form>
                                 <hr>
-                                <div class="text-center">
-                                    <a class="small" href="/assets/dashboard/forgot-password.html">Forgot Password?</a>
-                                </div>
-                                <div class="text-center">
-                                    <a class="small" href="/assets/dashboard/register.html">Create an Account!</a>
-                                </div>
+<!--                                <div class="text-center">-->
+<!--                                    <a class="small" href="/assets/dashboard/forgot-password.html">Forgot Password?</a>-->
+<!--                                </div>-->
+<!--                                <div class="text-center">-->
+<!--                                    <a class="small" href="/assets/dashboard/register.html">Create an Account!</a>-->
+<!--                                </div>-->
 <?php
 require_once "View/auth/include_auth/footer.php";
 ?>
