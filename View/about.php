@@ -47,7 +47,7 @@ include_once "include/header.php";
                     <img src="assets/img/me2.jpg" alt="" class="img-fluid rounded-circle w-50 mb-4">
                     <h4>Pedram Mirmomen</h4>
                     <span class="d-block mb-3 text-uppercase">programer</span>
-                    <p>دانشجو مجتمع فنی سعادت اباد هستن در دوره پی اچ پی حضور دارن و کار کردن روی این سایت جزوه پروژه ایشون هستش و علاقه زیادی به برنامه نویسی دارد </p>
+                    <p>برنامه نویس بک اند سایت پدرام نیوز </p>
                 </div>
             </div>
         </div>
