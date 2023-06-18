@@ -67,12 +67,12 @@ $categoriesRooWithNews = $categoryModel->getRootCatsWithNews();
                                                 <?php echo $com["$i"]["3"] ?>                                        </div>
                                         </div>
                                         <form enctype="multipart/form-data" class="user" method="POST" action="/commandstor/dislike?addres=<?php echo $addres ?>&id=<?php echo $com["$i"]["0"] ?>">
-                                            <button name="dislike" class="dislike">
+                                            <button name="dislike" class="dislike" style="width: 60px">
                                                 <i class="fa fa-thumbs-o-down" aria-hidden="true">dislike <?php echo $com["$i"]["5"] ?> </i>
                                             </button>
                                         </form>
                                         <form enctype="multipart/form-data" class="user" method="POST" action="/commandstor/like?addres=<?php echo $addres ?>&id=<?php echo $com["$i"]["0"] ?>">
-                                            <button name="like" class="like">
+                                            <button name="like" class="like" style="width: 60px">
                                                 <i class="fa fa-thumbs-o-up" aria-hidden="true">like <?php echo $com["$i"]["4"] ?> </i>
                                             </button>
                                         </form>
